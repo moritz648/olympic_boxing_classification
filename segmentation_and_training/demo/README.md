@@ -1,0 +1,8 @@
+- In **masking.py** sam-2 is used to segment the fighters and save the bounding boxes. 
+	- Run it and place two points on each of the fighters and the referees
+	- If the fighters are not in the image, skip frames by pressing x
+	- If the selection is complete, press s 
+	- The output are json files with the bounding boxes for the fighters at the corresponding frames
+- The **transformer** directory contains the files for training and testing the transformer model as well as model paths for different configurations
+- The **cnn** directory contains the files for training and testing the cnn as well as model paths for different configurations
+- In the **llm_sentenceification** directory, there are files for training and testing the finetuned llm as well as config folder for the finetuned models
