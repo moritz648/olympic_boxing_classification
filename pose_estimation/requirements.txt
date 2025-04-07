@@ -36,7 +36,7 @@ matplotlib==3.7.5
 mdurl==0.1.2
 mkl-fft
 mkl-random
-mkl-service==2.4.0
+mkl-service
 mmaction2==1.2.0
 mmcv==2.1.0
 mmcv-full==1.7.2
@@ -70,15 +70,12 @@ pyparsing==3.1.4
 PySocks
 python-dateutil==2.9.0.post0
 pytz==2023.4
-pywin32==308
-PyYAMLregex==2024.11.6
 requests==2.28.2
 rich==12.6.0
-scipy==1.10.1
+scipy
 seaborn==0.13.2
 shapely==2.0.6
 six==1.17.0
-sympytabulate==0.9.0
 termcolor==2.4.0
 terminaltables==3.1.10
 tomli==2.2.1
