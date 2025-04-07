@@ -1,0 +1,4113 @@
+[
+  {
+    "version": 18,
+    "tags": [],
+    "shapes": [],
+    "tracks": [
+      {
+        "frame": 653,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1062.2001953125,
+              421.16015625,
+              1205.1201171875,
+              496.8000000000011
+            ],
+            "frame": 653,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1067.0009765625,
+              425.9599609375,
+              1209.9208984375,
+              501.5998046875011
+            ],
+            "frame": 655,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1071.8017578125,
+              424.759765625,
+              1214.7216796875,
+              500.3996093750011
+            ],
+            "frame": 656,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1076.6015625,
+              424.759765625,
+              1219.521484375,
+              513.6000000000004
+            ],
+            "frame": 657,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1082.6015625,
+              424.759765625,
+              1225.521484375,
+              528.0
+            ],
+            "frame": 658,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Chybienie lewą ręką"
+      },
+      {
+        "frame": 708,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1102.291015625,
+              423.8193359375,
+              1173.1240234375,
+              507.8466796875
+            ],
+            "frame": 708,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1095.5400390625,
+              418.9970703125,
+              1166.373046875,
+              514.1000000000004
+            ],
+            "frame": 710,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Blok lewą ręką"
+      },
+      {
+        "frame": 715,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1165.3466796875,
+              427.4296875,
+              1236.2000000000007,
+              486.5
+            ],
+            "frame": 715,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1159.0966796875,
+              427.4296875,
+              1229.9500000000007,
+              486.5
+            ],
+            "frame": 716,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1147.300000000001,
+              424.6513671875,
+              1220.2275390625,
+              483.7216796875
+            ],
+            "frame": 717,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1134.10546875,
+              426.0400390625,
+              1207.033007812499,
+              485.1103515625
+            ],
+            "frame": 718,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1125.7724609375,
+              427.40000000000146,
+              1198.699999999999,
+              486.4990234375
+            ],
+            "frame": 719,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Głowa lewą ręką"
+      },
+      {
+        "frame": 805,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1021.0830078125,
+              422.666015625,
+              1094.416015625,
+              525.9990234375
+            ],
+            "frame": 805,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1010.2490234375,
+              422.666015625,
+              1083.58203125,
+              525.9990234375
+            ],
+            "frame": 806,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              996.9000000000015,
+              420.9990234375,
+              1078.58203125,
+              518.5
+            ],
+            "frame": 807,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              991.0673828125,
+              421.83203125,
+              1072.7494140624985,
+              519.3330078125
+            ],
+            "frame": 808,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              986.900390625,
+              421.83203125,
+              1068.5824218749985,
+              519.3330078125
+            ],
+            "frame": 809,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              984.400390625,
+              421.83203125,
+              1066.0824218749985,
+              519.3330078125
+            ],
+            "frame": 810,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Głowa prawą ręką"
+      },
+      {
+        "frame": 804,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              929.416015625,
+              459.3330078125,
+              1051.0830078125,
+              526.8330078125
+            ],
+            "frame": 804,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              917.7490234375,
+              461.8330078125,
+              1039.416015625,
+              529.3330078125
+            ],
+            "frame": 805,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              911.0830078125,
+              461.0,
+              1032.75,
+              528.5
+            ],
+            "frame": 806,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              900.2490234375,
+              461.0,
+              1021.916015625,
+              528.5
+            ],
+            "frame": 807,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              890.2490234375,
+              461.0,
+              1011.916015625,
+              528.5
+            ],
+            "frame": 808,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              877.7490234375,
+              460.166015625,
+              1010.2000000000007,
+              527.666015625
+            ],
+            "frame": 809,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              864.4150390625,
+              455.9990234375,
+              1016.9000000000015,
+              523.4990234375
+            ],
+            "frame": 810,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Chybienie lewą ręką"
+      },
+      {
+        "frame": 828,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              931.9443359375,
+              456.6552734375,
+              1040.798828125,
+              527.2568359375
+            ],
+            "frame": 828,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              929.6298828125,
+              458.9697265625,
+              1038.484375,
+              529.5712890625
+            ],
+            "frame": 829,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              925.0,
+              460.126953125,
+              1033.8544921875,
+              530.728515625
+            ],
+            "frame": 830,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              920.37109375,
+              457.2333984375,
+              1029.2255859375,
+              527.8349609375
+            ],
+            "frame": 832,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              918.0556640625,
+              458.3916015625,
+              1026.91015625,
+              528.9931640625
+            ],
+            "frame": 833,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              916.9000000000015,
+              456.076171875,
+              1025.7529296875,
+              535.4000000000015
+            ],
+            "frame": 834,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              908.2000000000007,
+              453.1826171875,
+              1024.017578125,
+              532.5064453125015
+            ],
+            "frame": 835,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Głowa prawą ręką"
+      },
+      {
+        "frame": 842,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              879.3984375,
+              431.076171875,
+              1012.55859375,
+              520.1962890625
+            ],
+            "frame": 842,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              883.4000000000015,
+              427.025390625,
+              1011.4013671875,
+              526.6000000000004
+            ],
+            "frame": 843,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              887.451171875,
+              425.8681640625,
+              1015.4525390624985,
+              525.4427734375004
+            ],
+            "frame": 844,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              889.2000000000007,
+              425.8681640625,
+              1015.4521484375,
+              530.1000000000004
+            ],
+            "frame": 845,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              889.2000000000007,
+              425.8681640625,
+              1015.4521484375,
+              530.1000000000004
+            ],
+            "frame": 846,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Blok lewą ręką"
+      },
+      {
+        "frame": 915,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              821.5,
+              433.75,
+              926.5,
+              532.0830078125
+            ],
+            "frame": 915,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              814.8330078125,
+              432.0830078125,
+              919.8330078125,
+              530.416015625
+            ],
+            "frame": 916,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              812.3330078125,
+              431.25,
+              917.3330078125,
+              529.5830078125
+            ],
+            "frame": 917,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              812.3330078125,
+              431.25,
+              917.3330078125,
+              529.5830078125
+            ],
+            "frame": 918,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Głowa prawą ręką"
+      },
+      {
+        "frame": 923,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              720.6669921875,
+              431.25,
+              834.083984375,
+              532.9169921875
+            ],
+            "frame": 923,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              710.6669921875,
+              429.5830078125,
+              819.1000000000004,
+              539.6000000000004
+            ],
+            "frame": 925,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              707.3330078125,
+              427.9169921875,
+              815.7660156250004,
+              537.9339843750004
+            ],
+            "frame": 926,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Głowa lewą ręką"
+      },
+      {
+        "frame": 924,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              794.0,
+              436.25,
+              899.0,
+              513.75
+            ],
+            "frame": 924,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              799.8330078125,
+              436.25,
+              904.8330078125,
+              513.75
+            ],
+            "frame": 925,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              806.5,
+              437.0830078125,
+              911.5,
+              514.5830078125
+            ],
+            "frame": 926,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              800.7000000000007,
+              437.9169921875,
+              915.6669921875,
+              515.4000000000015
+            ],
+            "frame": 927,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              791.5673828125,
+              439.5830078125,
+              917.3343749999985,
+              523.7660156250004
+            ],
+            "frame": 929,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Głowa lewą ręką"
+      },
+      {
+        "frame": 1013,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1165.666015625,
+              417.0830078125,
+              1269.916015625,
+              484.5830078125
+            ],
+            "frame": 1013,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1171.4990234375,
+              417.0830078125,
+              1275.7490234375,
+              493.7000000000007
+            ],
+            "frame": 1014,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1178.9990234375,
+              417.916015625,
+              1283.2490234375,
+              506.2000000000007
+            ],
+            "frame": 1015,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1181.4990234375,
+              417.916015625,
+              1292.4000000000015,
+              524.5
+            ],
+            "frame": 1016,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Chybienie lewą ręką"
+      },
+      {
+        "frame": 1217,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1258.25,
+              422.916015625,
+              1372.4169921875,
+              493.7000000000007
+            ],
+            "frame": 1217,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1255.75,
+              424.58203125,
+              1369.9169921875,
+              490.40000000000146
+            ],
+            "frame": 1218,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1253.25,
+              425.416015625,
+              1370.800000000001,
+              487.8000000000011
+            ],
+            "frame": 1219,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1253.25,
+              425.416015625,
+              1375.800000000001,
+              487.40000000000146
+            ],
+            "frame": 1220,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1258.2490234375,
+              427.0830078125,
+              1385.799023437501,
+              501.2000000000007
+            ],
+            "frame": 1221,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1253.25,
+              425.416015625,
+              1380.800000000001,
+              502.0
+            ],
+            "frame": 1222,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Blok lewą ręką"
+      },
+      {
+        "frame": 1232,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1364.166015625,
+              416.5830078125,
+              1573.3330078125,
+              487.40000000000146
+            ],
+            "frame": 1232,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1370.8330078125,
+              416.5830078125,
+              1580.0,
+              487.40000000000146
+            ],
+            "frame": 1233,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1382.5,
+              416.5830078125,
+              1591.6669921875,
+              487.40000000000146
+            ],
+            "frame": 1234,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1386.6669921875,
+              417.4169921875,
+              1595.833984375,
+              498.23398437500146
+            ],
+            "frame": 1235,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1394.1669921875,
+              413.25,
+              1603.333984375,
+              498.23300781250146
+            ],
+            "frame": 1236,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1399.1669921875,
+              413.25,
+              1608.333984375,
+              498.23300781250146
+            ],
+            "frame": 1237,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1403.333984375,
+              414.083984375,
+              1612.5009765625,
+              499.06699218750146
+            ],
+            "frame": 1238,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1403.333984375,
+              414.083984375,
+              1612.5009765625,
+              502.40000000000146
+            ],
+            "frame": 1239,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1412.5009765625,
+              410.75,
+              1621.66796875,
+              499.06601562500146
+            ],
+            "frame": 1240,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Chybienie lewą ręką"
+      },
+      {
+        "frame": 1438,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1376.5,
+              411.5,
+              1490.800000000001,
+              488.40000000000146
+            ],
+            "frame": 1438,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1372.44921875,
+              412.6572265625,
+              1484.44921875,
+              493.6572265625
+            ],
+            "frame": 1439,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1370.712890625,
+              414.9716796875,
+              1495.5,
+              488.40000000000146
+            ],
+            "frame": 1440,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1368.3974609375,
+              417.2861328125,
+              1509.9000000000015,
+              494.2000000000007
+            ],
+            "frame": 1441,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1363.7685546875,
+              419.6005859375,
+              1523.300000000001,
+              495.90000000000146
+            ],
+            "frame": 1442,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Chybienie prawą ręką"
+      },
+      {
+        "frame": 1524,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1410.416015625,
+              433.916015625,
+              1490.4990234375,
+              489.7490234375
+            ],
+            "frame": 1524,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1414.5830078125,
+              436.416015625,
+              1494.666015625,
+              492.2490234375
+            ],
+            "frame": 1525,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1420.4169921875,
+              439.75,
+              1500.5,
+              499.7000000000007
+            ],
+            "frame": 1526,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1420.4169921875,
+              439.75,
+              1504.7000000000007,
+              513.0
+            ],
+            "frame": 1527,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Głowa lewą ręką"
+      },
+      {
+        "frame": 1538,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1421.0068359375,
+              405.787109375,
+              1504.3984375,
+              490.8564453125
+            ],
+            "frame": 1538,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1423.3212890625,
+              404.6298828125,
+              1506.712890625,
+              488.5
+            ],
+            "frame": 1539,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1410.6000000000004,
+              400.5791015625,
+              1512.5,
+              484.44921875
+            ],
+            "frame": 1541,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Blok prawą ręką"
+      },
+      {
+        "frame": 1552,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1448.3798828125,
+              403.240234375,
+              1508.5654296875,
+              458.7958984375
+            ],
+            "frame": 1552,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1439.1000000000004,
+              403.240234375,
+              1508.5654296875,
+              458.7958984375
+            ],
+            "frame": 1553,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1444.300000000001,
+              403.240234375,
+              1517.24609375,
+              464.0
+            ],
+            "frame": 1554,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1443.1000000000004,
+              403.818359375,
+              1523.033203125,
+              471.5
+            ],
+            "frame": 1555,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1442.484375,
+              408.4482421875,
+              1528.820117187499,
+              488.3000000000011
+            ],
+            "frame": 1556,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Głowa lewą ręką"
+      },
+      {
+        "frame": 1566,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1412.5693359375,
+              430.9716796875,
+              1514.02734375,
+              478.1943359375
+            ],
+            "frame": 1566,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1410.486328125,
+              430.9716796875,
+              1511.9443359375,
+              478.1943359375
+            ],
+            "frame": 1567,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1419.5,
+              430.27734375,
+              1512.638671875,
+              477.5
+            ],
+            "frame": 1568,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1419.5,
+              426.1103515625,
+              1512.638671875,
+              486.5
+            ],
+            "frame": 1569,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1423.7001953125,
+              426.8046875,
+              1506.3888671874993,
+              490.7000000000007
+            ],
+            "frame": 1570,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1423.7001953125,
+              426.8046875,
+              1506.3888671874993,
+              490.7000000000007
+            ],
+            "frame": 1571,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Głowa prawą ręką"
+      },
+      {
+        "frame": 1647,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1115.5,
+              404.2001953125,
+              1254.5,
+              482.2001953125
+            ],
+            "frame": 1647,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1120.5,
+              406.2001953125,
+              1259.5,
+              484.2001953125
+            ],
+            "frame": 1649,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Głowa lewą ręką"
+      },
+      {
+        "frame": 1742,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1131.3076171875,
+              427.9521484375,
+              1232.001953125,
+              510.70703125
+            ],
+            "frame": 1742,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1134.779296875,
+              429.109375,
+              1235.4736328125,
+              511.8642578125
+            ],
+            "frame": 1743,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1137.0947265625,
+              430.845703125,
+              1237.7890625,
+              513.6005859375
+            ],
+            "frame": 1744,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1139.4091796875,
+              431.4248046875,
+              1240.103515625,
+              514.1796875
+            ],
+            "frame": 1745,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Blok prawą ręką"
+      },
+      {
+        "frame": 1749,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1155.03515625,
+              442.998046875,
+              1245.3125,
+              562.2109375
+            ],
+            "frame": 1749,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1158.5068359375,
+              436.6318359375,
+              1248.7841796875,
+              555.8447265625
+            ],
+            "frame": 1750,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1158.5068359375,
+              435.474609375,
+              1248.7841796875,
+              558.7000000000007
+            ],
+            "frame": 1751,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1158.5068359375,
+              435.474609375,
+              1248.7841796875,
+              562.2000000000007
+            ],
+            "frame": 1752,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1158.5068359375,
+              435.474609375,
+              1248.7841796875,
+              568.0
+            ],
+            "frame": 1753,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1158.5068359375,
+              435.474609375,
+              1248.7841796875,
+              568.0
+            ],
+            "frame": 1754,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Blok lewą ręką"
+      },
+      {
+        "frame": 1762,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1136.5166015625,
+              413.4833984375,
+              1247.0,
+              482.40000000000146
+            ],
+            "frame": 1762,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1132.4658203125,
+              413.4833984375,
+              1242.94921875,
+              484.10000000000036
+            ],
+            "frame": 1763,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1124.943359375,
+              414.640625,
+              1235.4267578125,
+              484.10000000000036
+            ],
+            "frame": 1764,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1116.841796875,
+              416.9560546875,
+              1227.3251953125,
+              484.10000000000036
+            ],
+            "frame": 1765,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1114.5263671875,
+              418.6923828125,
+              1225.009765625,
+              485.83632812500036
+            ],
+            "frame": 1766,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1112.7900390625,
+              423.900390625,
+              1223.2734375,
+              491.04433593750036
+            ],
+            "frame": 1767,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1113.947265625,
+              420.4287109375,
+              1224.4306640625,
+              510.7000000000007
+            ],
+            "frame": 1768,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Głowa prawą ręką"
+      },
+      {
+        "frame": 1763,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1232.5830078125,
+              434.75,
+              1350.0830078125,
+              503.0830078125
+            ],
+            "frame": 1763,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1213.4169921875,
+              438.083984375,
+              1330.9169921875,
+              506.4169921875
+            ],
+            "frame": 1764,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1212.5830078125,
+              439.75,
+              1330.0830078125,
+              508.0830078125
+            ],
+            "frame": 1765,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1211.75,
+              447.25,
+              1329.25,
+              515.5830078125
+            ],
+            "frame": 1766,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1208.4169921875,
+              453.9169921875,
+              1325.9169921875,
+              528.9000000000015
+            ],
+            "frame": 1767,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1178.400390625,
+              453.9169921875,
+              1325.9173828124985,
+              536.4000000000015
+            ],
+            "frame": 1768,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1155.099609375,
+              465.60000000000036,
+              1325.9166015624996,
+              544.734375
+            ],
+            "frame": 1769,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Chybienie lewą ręką"
+      },
+      {
+        "frame": 1809,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1164.25,
+              417.2490234375,
+              1255.9169921875,
+              526.416015625
+            ],
+            "frame": 1809,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1157.5830078125,
+              416.4150390625,
+              1266.7000000000007,
+              528.1000000000004
+            ],
+            "frame": 1810,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1152.5830078125,
+              416.4150390625,
+              1269.2000000000007,
+              543.1000000000004
+            ],
+            "frame": 1811,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1149.25,
+              415.5810546875,
+              1273.4000000000015,
+              542.3000000000011
+            ],
+            "frame": 1812,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Blok prawą ręką"
+      },
+      {
+        "frame": 1816,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1142.486328125,
+              416.166015625,
+              1249.064453125,
+              553.1259765625
+            ],
+            "frame": 1816,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1139.5927734375,
+              416.166015625,
+              1246.1708984375,
+              544.4000000000015
+            ],
+            "frame": 1817,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1139.5927734375,
+              416.166015625,
+              1246.1708984375,
+              542.0
+            ],
+            "frame": 1818,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1138.62890625,
+              417.1298828125,
+              1245.20703125,
+              542.9638671875
+            ],
+            "frame": 1819,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1134.2890625,
+              417.1298828125,
+              1240.8671875,
+              542.9638671875
+            ],
+            "frame": 1820,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Blok lewą ręką"
+      },
+      {
+        "frame": 1832,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1139.1000000000004,
+              438.2001953125,
+              1235.609375,
+              515.3644531249993
+            ],
+            "frame": 1832,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1135.2412109375,
+              438.2001953125,
+              1231.7505859374996,
+              515.3644531249993
+            ],
+            "frame": 1835,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1134.759765625,
+              442.05859375,
+              1231.2691406249996,
+              519.2228515624993
+            ],
+            "frame": 1837,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1133.7958984375,
+              447.36328125,
+              1230.3052734374996,
+              524.5275390624993
+            ],
+            "frame": 1839,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1133.7958984375,
+              447.36328125,
+              1230.3052734374996,
+              524.5275390624993
+            ],
+            "frame": 1840,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Głowa prawą ręką"
+      },
+      {
+        "frame": 1946,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1511.0244140625,
+              412.8798828125,
+              1724.2880859375,
+              624.5595703125
+            ],
+            "frame": 1946,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1534.064453125,
+              422.9599609375,
+              1747.328125,
+              626.0
+            ],
+            "frame": 1947,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1549.904296875,
+              435.919921875,
+              1763.16796875,
+              633.2000000000007
+            ],
+            "frame": 1948,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Głowa prawą ręką"
+      },
+      {
+        "frame": 1958,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1655.0,
+              422.9609375,
+              1876.9287109375,
+              554.0
+            ],
+            "frame": 1958,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1665.080078125,
+              427.2802734375,
+              1887.0087890625,
+              558.3193359375
+            ],
+            "frame": 1959,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1682.4000000000015,
+              427.2802734375,
+              1904.2880859375,
+              569.8000000000011
+            ],
+            "frame": 1960,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1696.80078125,
+              428.720703125,
+              1918.6888671874985,
+              571.2404296875011
+            ],
+            "frame": 1961,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1699.7000000000007,
+              428.720703125,
+              1918.6884765625,
+              582.8000000000011
+            ],
+            "frame": 1963,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Głowa lewą ręką"
+      },
+      {
+        "frame": 2194,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1154.3017578125,
+              411.2939453125,
+              1270.5244140625,
+              487.490234375
+            ],
+            "frame": 2194,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1154.3017578125,
+              408.400390625,
+              1270.5244140625,
+              484.5966796875
+            ],
+            "frame": 2195,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1153.8193359375,
+              406.4716796875,
+              1270.0419921875,
+              482.66796875
+            ],
+            "frame": 2196,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1152.85546875,
+              405.9892578125,
+              1269.078125,
+              482.185546875
+            ],
+            "frame": 2197,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1152.85546875,
+              402.61328125,
+              1269.078125,
+              487.52402343750146
+            ],
+            "frame": 2199,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1152.85546875,
+              402.61328125,
+              1269.078125,
+              491.40000000000146
+            ],
+            "frame": 2200,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Chybienie prawą ręką"
+      },
+      {
+        "frame": 2260,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1427.0556640625,
+              418.6240234375,
+              1531.1416015625,
+              496.587890625
+            ],
+            "frame": 2260,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1431.1000000000004,
+              416.6142578125,
+              1545.609375,
+              497.40000000000146
+            ],
+            "frame": 2261,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1439.1376953125,
+              423.044921875,
+              1553.6470703124996,
+              503.83066406250146
+            ],
+            "frame": 2262,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1445.2000000000007,
+              425.857421875,
+              1572.5361328125,
+              505.0
+            ],
+            "frame": 2263,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1443.1904296875,
+              425.857421875,
+              1585.3957031249993,
+              508.2111328125011
+            ],
+            "frame": 2264,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Głowa prawą ręką"
+      },
+      {
+        "frame": 2344,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1508.25,
+              440.0,
+              1624.9169921875,
+              511.6669921875
+            ],
+            "frame": 2344,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1503.25,
+              435.0,
+              1618.300000000001,
+              509.2000000000007
+            ],
+            "frame": 2345,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1499.083984375,
+              431.666015625,
+              1614.1000000000004,
+              511.7000000000007
+            ],
+            "frame": 2346,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1499.083984375,
+              431.666015625,
+              1614.1000000000004,
+              511.7000000000007
+            ],
+            "frame": 2348,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Głowa lewą ręką"
+      },
+      {
+        "frame": 2366,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1612.416015625,
+              420.8330078125,
+              1782.416015625,
+              500.0
+            ],
+            "frame": 2366,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1615.75,
+              420.8330078125,
+              1785.75,
+              500.0
+            ],
+            "frame": 2367,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1634.9169921875,
+              419.1669921875,
+              1804.9169921875,
+              511.7000000000007
+            ],
+            "frame": 2368,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1649.9169921875,
+              415.833984375,
+              1819.9169921875,
+              522.5
+            ],
+            "frame": 2369,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Blok lewą ręką"
+      },
+      {
+        "frame": 2430,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1209.0830078125,
+              399.166015625,
+              1369.0830078125,
+              493.3330078125
+            ],
+            "frame": 2430,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1219.0830078125,
+              395.83203125,
+              1379.0830078125,
+              489.9990234375
+            ],
+            "frame": 2431,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1225.7490234375,
+              397.498046875,
+              1385.7490234375,
+              491.6650390625
+            ],
+            "frame": 2432,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1230.7490234375,
+              397.498046875,
+              1390.7490234375,
+              491.6650390625
+            ],
+            "frame": 2434,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1234.08203125,
+              398.3310546875,
+              1394.08203125,
+              492.498046875
+            ],
+            "frame": 2435,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1234.08203125,
+              398.3310546875,
+              1394.08203125,
+              492.498046875
+            ],
+            "frame": 2437,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Blok prawą ręką"
+      },
+      {
+        "frame": 2442,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1312.416015625,
+              405.8330078125,
+              1443.2490234375,
+              504.166015625
+            ],
+            "frame": 2442,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1307.416015625,
+              404.9990234375,
+              1439.1000000000004,
+              510.0
+            ],
+            "frame": 2444,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1304.916015625,
+              404.9990234375,
+              1436.6000000000004,
+              510.0
+            ],
+            "frame": 2445,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1297.416015625,
+              401.666015625,
+              1429.1000000000004,
+              506.6669921875
+            ],
+            "frame": 2446,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1298.2490234375,
+              401.666015625,
+              1429.9330078125004,
+              504.2000000000007
+            ],
+            "frame": 2447,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Głowa lewą ręką"
+      },
+      {
+        "frame": 2560,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1414.1201171875,
+              400.751953125,
+              1493.5,
+              458.6220703125
+            ],
+            "frame": 2560,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1417.6000000000004,
+              400.751953125,
+              1499.8662109375,
+              459.8000000000011
+            ],
+            "frame": 2561,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1415.9000000000015,
+              401.9091796875,
+              1508.546875,
+              466.7000000000007
+            ],
+            "frame": 2562,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1413.6000000000004,
+              404.224609375,
+              1518.9638671875,
+              473.60000000000036
+            ],
+            "frame": 2563,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Blok lewą ręką"
+      },
+      {
+        "frame": 2638,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1398.4951171875,
+              439.7568359375,
+              1490.5087890625,
+              576.9091796875
+            ],
+            "frame": 2638,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1402.5,
+              438.599609375,
+              1497.453125,
+              576.9000000000015
+            ],
+            "frame": 2639,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1402.5,
+              438.599609375,
+              1502.1000000000004,
+              576.9000000000015
+            ],
+            "frame": 2640,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1407.7080078125,
+              436.28515625,
+              1507.3080078125004,
+              574.5855468750015
+            ],
+            "frame": 2641,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1409.4443359375,
+              435.126953125,
+              1509.0443359375004,
+              573.4273437500015
+            ],
+            "frame": 2642,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1414.6533203125,
+              432.2333984375,
+              1514.2533203125004,
+              570.5337890625015
+            ],
+            "frame": 2643,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Blok lewą ręką"
+      },
+      {
+        "frame": 2665,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1533.888671875,
+              419.166015625,
+              1648.541015625,
+              492.77734375
+            ],
+            "frame": 2665,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1549.166015625,
+              419.8603515625,
+              1663.818359375,
+              493.4716796875
+            ],
+            "frame": 2666,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1570.6943359375,
+              419.166015625,
+              1685.3466796875,
+              492.77734375
+            ],
+            "frame": 2667,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1574.861328125,
+              426.1103515625,
+              1689.513671875,
+              499.7216796875
+            ],
+            "frame": 2668,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Głowa lewą ręką"
+      },
+      {
+        "frame": 2744,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1053.40234375,
+              401.1103515625,
+              1186.7353515625,
+              498.3330078125
+            ],
+            "frame": 2744,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1051.318359375,
+              397.6376953125,
+              1184.6513671875,
+              494.8603515625
+            ],
+            "frame": 2745,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1042.291015625,
+              396.2490234375,
+              1175.6240234375,
+              503.2000000000007
+            ],
+            "frame": 2747,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1038.8193359375,
+              395.5546875,
+              1172.15234375,
+              512.2000000000007
+            ],
+            "frame": 2748,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Chybienie lewą ręką"
+      },
+      {
+        "frame": 2805,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1270.94921875,
+              439.236328125,
+              1391.3193359375,
+              525.462890625
+            ],
+            "frame": 2805,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1272.1064453125,
+              434.607421875,
+              1392.4765625,
+              520.833984375
+            ],
+            "frame": 2806,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1276.736328125,
+              431.7138671875,
+              1397.1064453125,
+              517.9404296875
+            ],
+            "frame": 2807,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1288.3095703125,
+              431.7138671875,
+              1408.6796875,
+              517.9404296875
+            ],
+            "frame": 2808,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1297.568359375,
+              431.134765625,
+              1417.9384765625,
+              517.361328125
+            ],
+            "frame": 2809,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1307.9853515625,
+              431.7138671875,
+              1428.35546875,
+              517.9404296875
+            ],
+            "frame": 2810,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Głowa prawą ręką"
+      },
+      {
+        "frame": 2812,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1327.662109375,
+              439.236328125,
+              1433.564453125,
+              547.4541015625
+            ],
+            "frame": 2812,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1328.2412109375,
+              433.44921875,
+              1434.7000000000007,
+              551.5
+            ],
+            "frame": 2813,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1328.2412109375,
+              425.34765625,
+              1437.0,
+              560.2000000000007
+            ],
+            "frame": 2814,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1332.2919921875,
+              423.033203125,
+              1441.05078125,
+              557.8855468750007
+            ],
+            "frame": 2815,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1332.87109375,
+              416.6669921875,
+              1441.6298828125,
+              551.5193359375007
+            ],
+            "frame": 2816,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Głowa lewą ręką"
+      },
+      {
+        "frame": 2815,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1401.099609375,
+              423.0322265625,
+              1507.060546875,
+              531.2000000000007
+            ],
+            "frame": 2815,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1402.8359375,
+              422.453125,
+              1508.796875,
+              526.6000000000004
+            ],
+            "frame": 2816,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1416.724609375,
+              423.0322265625,
+              1522.685546875,
+              528.4000000000015
+            ],
+            "frame": 2817,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1429.4560546875,
+              423.0322265625,
+              1535.4169921875,
+              528.4000000000015
+            ],
+            "frame": 2818,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1441.6083984375,
+              423.611328125,
+              1547.5693359375,
+              528.9791015625015
+            ],
+            "frame": 2819,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1445.7000000000007,
+              421.875,
+              1559.1435546875,
+              529.6000000000004
+            ],
+            "frame": 2820,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1438.2000000000007,
+              427.662109375,
+              1571.296875,
+              535.4000000000015
+            ],
+            "frame": 2821,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Głowa lewą ręką"
+      },
+      {
+        "frame": 2844,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1553.720703125,
+              436.0400390625,
+              1731.4404296875,
+              536.83984375
+            ],
+            "frame": 2844,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1564.83203125,
+              436.0400390625,
+              1742.5517578125,
+              549.3000000000011
+            ],
+            "frame": 2845,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1577.33203125,
+              435.345703125,
+              1755.0517578125,
+              555.5
+            ],
+            "frame": 2846,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1589.1376953125,
+              436.0400390625,
+              1766.857421875,
+              556.1943359375
+            ],
+            "frame": 2847,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Głowa lewą ręką"
+      },
+      {
+        "frame": 2870,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1117.9873046875,
+              404.2529296875,
+              1225.0478515625,
+              481.4130859375
+            ],
+            "frame": 2870,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1112.2001953125,
+              409.5576171875,
+              1219.2607421875,
+              484.3000000000011
+            ],
+            "frame": 2872,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1109.306640625,
+              412.9326171875,
+              1216.3671875,
+              487.6750000000011
+            ],
+            "frame": 2873,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1108.3427734375,
+              414.3798828125,
+              1215.4033203125,
+              489.1222656250011
+            ],
+            "frame": 2874,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1107.861328125,
+              418.23828125,
+              1214.921875,
+              492.9806640625011
+            ],
+            "frame": 2875,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Głowa prawą ręką"
+      },
+      {
+        "frame": 2881,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1203.78125,
+              406.6640625,
+              1301.7265625,
+              468.40000000000146
+            ],
+            "frame": 2881,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1211.0146484375,
+              403.2880859375,
+              1308.9599609375,
+              465.02402343750146
+            ],
+            "frame": 2882,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1212.0,
+              403.2880859375,
+              1315.7109375,
+              470.3000000000011
+            ],
+            "frame": 2883,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1216.300000000001,
+              402.8056640625,
+              1321.498046875,
+              471.3000000000011
+            ],
+            "frame": 2884,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1217.7000000000007,
+              401.359375,
+              1331.1435546875,
+              474.2000000000007
+            ],
+            "frame": 2885,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Głowa lewą ręką"
+      },
+      {
+        "frame": 2879,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1106.25,
+              422.2216796875,
+              1218.75,
+              494.4443359375
+            ],
+            "frame": 2879,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1102.0830078125,
+              425.693359375,
+              1214.5830078125,
+              497.916015625
+            ],
+            "frame": 2881,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1099.3056640625,
+              427.7763671875,
+              1211.8056640625,
+              499.9990234375
+            ],
+            "frame": 2882,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1099.3056640625,
+              427.7763671875,
+              1211.8056640625,
+              499.9990234375
+            ],
+            "frame": 2884,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Blok lewą ręką"
+      },
+      {
+        "frame": 2964,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1454.3603515625,
+              396.080078125,
+              1669.16015625,
+              501.6796875
+            ],
+            "frame": 2964,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1466.3603515625,
+              399.6806640625,
+              1681.16015625,
+              501.7000000000007
+            ],
+            "frame": 2965,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1473.560546875,
+              399.6806640625,
+              1688.3603515625,
+              500.5
+            ],
+            "frame": 2966,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1480.7607421875,
+              408.080078125,
+              1695.560546875,
+              504.10000000000036
+            ],
+            "frame": 2967,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1487.9609375,
+              410.48046875,
+              1702.7607421875,
+              506.50039062500036
+            ],
+            "frame": 2968,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1498.7607421875,
+              416.48046875,
+              1713.560546875,
+              512.5003906250004
+            ],
+            "frame": 2969,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1507.16015625,
+              417.6806640625,
+              1721.9599609375,
+              513.7005859375004
+            ],
+            "frame": 2970,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1513.16015625,
+              424.880859375,
+              1727.9599609375,
+              520.9007812500004
+            ],
+            "frame": 2971,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1526.3603515625,
+              432.080078125,
+              1741.16015625,
+              528.1000000000004
+            ],
+            "frame": 2972,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1527.560546875,
+              434.4794921875,
+              1742.3603515625,
+              530.4994140625004
+            ],
+            "frame": 2973,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1533.560546875,
+              435.6796875,
+              1748.3603515625,
+              531.6996093750004
+            ],
+            "frame": 2974,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1533.560546875,
+              435.6796875,
+              1748.3603515625,
+              548.5
+            ],
+            "frame": 2975,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Chybienie lewą ręką"
+      },
+      {
+        "frame": 2989,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1683.560546875,
+              459.6806640625,
+              1829.9609375,
+              619.2802734375
+            ],
+            "frame": 2989,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1683.560546875,
+              459.6806640625,
+              1829.9609375,
+              626.5
+            ],
+            "frame": 2992,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1697.9599609375,
+              468.0810546875,
+              1844.3603515625,
+              634.900390625
+            ],
+            "frame": 2993,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1696.759765625,
+              463.28125,
+              1843.16015625,
+              630.1005859375
+            ],
+            "frame": 2994,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Blok prawą ręką"
+      },
+      {
+        "frame": 2999,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1705.5166015625,
+              452.623046875,
+              1825.115234375,
+              537.5
+            ],
+            "frame": 2999,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1710.3388671875,
+              453.5869140625,
+              1829.9375,
+              538.4638671875
+            ],
+            "frame": 3000,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1719.0,
+              447.318359375,
+              1839.1005859375,
+              542.3000000000011
+            ],
+            "frame": 3001,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1739.7373046875,
+              445.3896484375,
+              1859.837890625,
+              540.3712890625011
+            ],
+            "frame": 3002,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1747.453125,
+              441.048828125,
+              1867.5537109375,
+              536.0304687500011
+            ],
+            "frame": 3003,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1756.1000000000004,
+              438.1552734375,
+              1879.1279296875,
+              540.4000000000015
+            ],
+            "frame": 3004,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1767.19140625,
+              439.1201171875,
+              1890.2193359374996,
+              541.3648437500015
+            ],
+            "frame": 3005,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1771.5,
+              437.6728515625,
+              1907.0986328125,
+              543.8000000000011
+            ],
+            "frame": 3006,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1781.6000000000004,
+              437.6728515625,
+              1920.0,
+              543.8000000000011
+            ],
+            "frame": 3007,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1781.6000000000004,
+              437.6728515625,
+              1920.0,
+              543.8000000000011
+            ],
+            "frame": 3014,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Głowa lewą ręką"
+      },
+      {
+        "frame": 3024,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1763.6669921875,
+              407.3330078125,
+              1877.083984375,
+              489.8330078125
+            ],
+            "frame": 3024,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1766.1669921875,
+              404.8330078125,
+              1879.583984375,
+              487.3330078125
+            ],
+            "frame": 3025,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1766.1669921875,
+              400.6669921875,
+              1879.583984375,
+              483.1669921875
+            ],
+            "frame": 3026,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1776.1669921875,
+              399.833984375,
+              1889.583984375,
+              482.333984375
+            ],
+            "frame": 3027,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1781.1669921875,
+              397.333984375,
+              1894.583984375,
+              492.3000000000011
+            ],
+            "frame": 3028,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1781.1669921875,
+              397.333984375,
+              1894.583984375,
+              499.0
+            ],
+            "frame": 3029,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Głowa lewą ręką"
+      },
+      {
+        "frame": 3075,
+        "group": 0,
+        "source": "manual",
+        "shapes": [
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1716.166015625,
+              413.416015625,
+              1856.166015625,
+              493.416015625
+            ],
+            "frame": 3075,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1737.0,
+              414.25,
+              1877.0,
+              494.25
+            ],
+            "frame": 3077,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1742.0,
+              414.25,
+              1891.1669921875,
+              494.25
+            ],
+            "frame": 3078,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1745.300000000001,
+              416.75,
+              1906.1669921875,
+              496.75
+            ],
+            "frame": 3079,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1739.5,
+              423.416015625,
+              1906.1669921875,
+              503.416015625
+            ],
+            "frame": 3080,
+            "outside": false,
+            "attributes": []
+          },
+          {
+            "type": "rectangle",
+            "occluded": false,
+            "z_order": 0,
+            "points": [
+              1739.5,
+              423.416015625,
+              1906.1669921875,
+              503.416015625
+            ],
+            "frame": 3081,
+            "outside": true,
+            "attributes": []
+          }
+        ],
+        "attributes": [],
+        "label": "Głowa lewą ręką"
+      }
+    ]
+  }
+]

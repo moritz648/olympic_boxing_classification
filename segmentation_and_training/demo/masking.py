@@ -28,7 +28,7 @@ def compare_masks(mask1: np.ndarray, mask2: np.ndarray, overlap_threshold: float
         return False
     return (intersection / union) >= overlap_threshold
 
-base_path = r'C:\Users\willi\PycharmProjects\segment-anything-2-real-time\Olympic Boxing Punch Classification Video Dataset'
+base_path = 'example_data'
 
 selected_points = []
 current_object_id = 1
