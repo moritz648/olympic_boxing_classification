@@ -70,7 +70,7 @@ pyparsing==3.1.4
 PySocks
 python-dateutil==2.9.0.post0
 pytz==2023.4
-requests==2.28.2
+requests
 rich
 scipy
 seaborn==0.13.2
@@ -82,7 +82,7 @@ tomli==2.2.1
 torch
 torchaudio
 torchvision
-tqdm==4.65.2
+tqdm
 typing_extensions
 tzdata==2024.2
 ultralytics==8.3.49
