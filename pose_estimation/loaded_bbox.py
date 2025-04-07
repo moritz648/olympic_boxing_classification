@@ -19,8 +19,14 @@ def load_bounding_boxes(file_path):
 
 def get_bounding_boxes_for_frame(bounding_boxes, frame_index):
     for frame_data in bounding_boxes:
+        if "frame" not in frame_data:
+            continue
+
         if frame_data["frame"] == frame_index:
-            return frame_data["boxes"]
+            if "boxes" in frame_data:
+                return frame_data["boxes"]
+            else:
+                return []
     return []
 
 def filter_small_bounding_boxes(bounding_boxes):
