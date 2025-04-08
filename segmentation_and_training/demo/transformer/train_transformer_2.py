@@ -342,5 +342,5 @@ if __name__ == "__main__":
     except ImportError:
         print("sklearn is not installed; skipping confusion matrix and classification report.")
 
-    torch.save(model.state_dict(), "best_boxing_action_transformer.pth")
+    torch.save(model.state_dict(), "train_action_transformer_small.pth")
     print("Trained model saved to 'best_boxing_action_transformer.pth'.")
