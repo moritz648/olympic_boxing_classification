@@ -9,7 +9,6 @@ import json
 pose_config = 'td-hm_hrnet-w48_8xb32-210e_coco-256x192.py'
 pose_checkpoint = 'td-hm_hrnet-w48_8xb32-210e_coco-256x192-0e67c616_20220913.pth'
 pose_model = init_model(pose_config, pose_checkpoint, device='cpu')
-base_path = '../segmentation_and_training/demo/example_data'
 
 MIN_BBOX_AREA = 5000
 
@@ -20,7 +19,6 @@ def load_bounding_boxes(file_path):
 def get_bounding_boxes_for_frame(bounding_boxes, frame_index):
     for frame_data in bounding_boxes:
         if frame_data["frame"] == frame_index:
-            print(frame_data)
             return frame_data["boxes"]
     return []
 
@@ -78,6 +76,7 @@ def process_frame_with_bounding_boxes(image, bounding_boxes):
 
 
 def detect_and_estimate_pose_with_boxes(input_path, bbox_file, output_path):
+    print(bbox_file)
     bounding_boxes = load_bounding_boxes(bbox_file)
     result_keypoints = []
 
@@ -136,6 +135,8 @@ def convert_to_serializable(obj):
     elif isinstance(obj, list):
         return [convert_to_serializable(i) for i in obj]
     return obj
+
+base_path = '../segmentation_and_training/demo/example_data'
 
 for folder in os.listdir(base_path):
     full_path = os.path.join(base_path, folder)
