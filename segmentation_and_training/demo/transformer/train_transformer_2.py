@@ -244,7 +244,7 @@ if __name__ == "__main__":
     random.seed(seed)
     torch.manual_seed(seed)
 
-    root_dir = r"C:\Users\willi\PycharmProjects\segment-anything-2-real-time\Olympic Boxing Punch Classification Video Dataset"
+    root_dir = "../../Olympic Boxing Punch Classification Video Dataset"
     num_keypoints = 17
     input_dim = 4 * num_keypoints
 
