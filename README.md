@@ -18,7 +18,13 @@ Activate the virtual environment with:
 source env/bin/activate
 ```
 
-## 3. Segmentation of Fighters
+## 3. Install CUDA Toolkit
+```bash
+sudo apt update
+sudo apt install nvidia-cuda-toolkit
+```
+
+## 4. Segmentation of Fighters
 
 1. **Navigate to the segmentation and training directory:**
 
@@ -42,7 +48,7 @@ source env/bin/activate
    - Then, select the head & body of each fighter as well as the referee (in this order).
    - After selecting, press `s` to start the segmentation process. This outputs a JSON file with the bounding boxes of the tracked fighters.
 
-## 4. Pose Estimation
+## 5. Pose Estimation
 
 1. **Navigate to the pose estimation directory:**
 
@@ -62,7 +68,7 @@ source env/bin/activate
 
    This processes the bounding boxes by performing pose estimation on the fighters and returns a JSON file with the keypoints.
 
-## 5. Training
+## 6. Training
 
 1. **Download a small sample of processed data:**
 
