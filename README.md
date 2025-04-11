@@ -31,18 +31,19 @@ sudo apt install nvidia-cuda-toolkit
        cd segmentation_and_training
 
 2. **Install the required packages:**
+       Note that this can take quite some time
 
        pip install -U pip && pip install -r requirements.txt
 
-3. **Download the required file:**
+4. **Download the required file:**
 
        gdown 1M7INrxU2h5fCPgSCPzpt1cw_XdhQ8VHE
 
-4. **Run the segmentation demo:**
+5. **Run the segmentation demo:**
 
        cd ../demo && python masking.py
 
-5. **Follow the on-screen instructions:**
+6. **Follow the on-screen instructions:**
    - A window should open showing a video of the fight.
    - Press/hold `x` to skip frames until both fighters are shown in their red/blue outfits.
    - Then, select the head & body of each fighter as well as the referee (in this order).
@@ -54,7 +55,7 @@ sudo apt install nvidia-cuda-toolkit
 
        cd ../../pose_estimation
 
-2. **Upgrade setuptools and install the necessary packages:**
+2. **Upgrade setuptools and install the necessary packages:** This again, can take up quite some time
 
        pip install --upgrade setuptools && pip install -r requirements.txt
 
